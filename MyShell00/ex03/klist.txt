@@ -1,0 +1,5 @@
+Credentials cache: API:E0E11FB3-32A1-468C-94EB-AE5D5325B988
+        Principal: scorsaro@42MADRID.COM
+
+  Issued                Expires               Principal
+Sep 30 19:30:29 2019  Oct  1 05:30:29 2019  krbtgt/42MADRID.COM@42MADRID.COM
